@@ -22,7 +22,7 @@ git clone git@github.com:RohanLodhi/pwwordlist-generator.git
 
 ## Install pip3 to use the script
 ```
-pip3 install 
+sudo apt install pip3 
 ```
 
 ## Generate passwords by the following command
