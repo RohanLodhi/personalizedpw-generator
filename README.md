@@ -1,5 +1,5 @@
-# pwwordlist-generator
-Python script to generate possible passwords for brute force attack.
+# personalizedpw-generator
+Python script that generates possible personalized passwords for brute force attacks.
 
 # Features
 * Generates millions of passwords in just seconds
