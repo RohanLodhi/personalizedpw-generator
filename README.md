@@ -12,12 +12,12 @@ Python script that generates possible personalized passwords for brute force att
 
 ## Clone with HTTPS
 ```
-git clone https://github.com/RohanLodhi/pwwordlist-generator.git
+git clone https://github.com/RohanLodhi/personalizedpw-generator.git
 ```
 
 ## Clone with SSH
 ```
-git clone git@github.com:RohanLodhi/pwwordlist-generator.git
+git clone git@github.com:RohanLodhi/personalizedpw-generator.git
 ```
 
 ## Install pip3 to use the script
